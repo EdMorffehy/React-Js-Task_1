@@ -1,0 +1,14 @@
+.background{
+    /*background-image: url("../../images/main_bg.png");*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    width: 100vw;
+    height: 100vh;
+    background-color: #04b4e0;
+    /*opacity: 1;*/
+}
+
+.contents_block{
+
+}
+/*className={style.background}*/
